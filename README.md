@@ -1,4 +1,4 @@
-Todo app created using React Hooks.
+Simple Todo app created using React Hooks.
 
 
 ## Live Demo:
